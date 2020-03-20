@@ -5,8 +5,8 @@ module.exports = {
     umd: {
       global: 'feedComponent',
       externals: {
-        react: 'React'
-      }
-    }
-  }
-}
+        react: 'React',
+      },
+    },
+  },
+};
